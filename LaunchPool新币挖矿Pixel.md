@@ -1,13 +1,10 @@
 新币挖矿活动, 10天的收益约为总资金的1%-2%
 
 币安新币挖矿现已上线第46期项目 - 
-
 用户可以在2024年02月09日08:00（东八区时间）后在 Launchpad网站 将BNB、FDUSD投入到PIXEL挖矿池中获得PIXEL奖励，PIXEL共计可挖矿10天。
-
 Pixels（PIXEL），一款基于 Ronin 网络的社交网络游戏。 币安将于2024年02月19日18:00（东八区时间）上市 Pixels（PIXEL）, 开通PIXEL交易对
 
 参与教程如下
-
 币安首页点击launchpool
  
 ![币安首页点击launchpool](media/%E5%B8%81%E5%AE%89%E9%A6%96%E9%A1%B5%E7%82%B9%E5%87%BBlaunchpool.jpeg)
