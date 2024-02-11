@@ -1,11 +1,13 @@
 # Web3钱包活动
 
+活动结束时间2024年3月4日23:59
+
 首先进入binance web3钱包
 点击参加活动
 
 如果没有币安账户, 可以通过我的邀请[注册](https://www.binance.com/en/join?ref=T9WB4BF1)
 
-如果是初次使用Web3钱包, 建议准备大约40usdt资金(10usdt BNB, 10usdt ETH, 20usdt USDT)当作手续费与交互资金, 和参加以后的Web3活动
+如果是初次使用Web3钱包, 建议准备大约40usdt资金(10usdt BNB, 10usdt ETH, 20 USDT)当作手续费与交互资金, 和参加以后的Web3活动
 
 活动肯定是稳赚不亏的, 就是赚多少的问题, 积极参加活动一个月白嫖20,30美元还是有的
 
