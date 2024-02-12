@@ -1,8 +1,6 @@
-# Web3钱包活动
+# Web3钱包活动Polyhedra
 
 活动结束时间2024年3月4日23:59
-
-
 
 如果没有币安账户, 可以通过我的邀请[注册](https://www.binance.com/en/join?ref=T9WB4BF1)
 
@@ -47,6 +45,7 @@ USDT(Arbitrum One), 是Arb链下的USDT, USDT(BNB Smart Chain)是BNB链下USDT,�
 
 ![选择Binance Web3钱包](media/%E9%80%89%E6%8B%A9Binance%20Web3%E9%92%B1%E5%8C%85.jpeg)
 
+任务一:
 该任务的目的是使用Polyhedra进行一次跨链操作,那么我们选择把BNB链的USDT, 跨链到Arb链, 选择好后,一路确认即可
 
 ![BSC to Arb](media/BSC%20to%20Arb.jpeg)
@@ -54,3 +53,33 @@ USDT(Arbitrum One), 是Arb链下的USDT, USDT(BNB Smart Chain)是BNB链下USDT,�
 刷新,完成任务一
 
 ![刷新,完成任务一](media/%E5%88%B7%E6%96%B0,%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E4%B8%80.jpeg)
+
+
+任务二
+
+跨链划转NFT
+
+首先进入NFT选项卡, 点击NFT之后点x
+
+![选择NFT](media/%E9%80%89%E6%8B%A9NFT.jpeg)
+
+先申领NFT, 点击下方的Gallery
+
+![申领NFT](media/%E7%94%B3%E9%A2%86NFT.jpeg)
+
+选择第二个BNB链, 这样手续费会低一些, 点击claim申领NFT
+
+![claim NFT](media/claim%20NFT.jpeg)
+
+申领完成后, 点击import
+
+![confirm import](media/confirm%20import.jpeg)
+
+第二条链, 选择Arb链, 点击Next
+
+
+![select arb](media/select%20arb.jpeg)
+
+先点击Approve,再点击Transfer, NFT就从BNB链划转到了Arb链, 任务完成
+
+![approve transfer](media/approve%20transfer.jpeg)
