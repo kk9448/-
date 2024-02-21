@@ -1,10 +1,10 @@
-# 新币挖矿pixel
+# # 新币挖矿Portal
 
 ### 新币挖矿活动, 10天的收益约为总资金的2%
 
-币安新币挖矿现已上线第46期项目 - 
-用户可以在2024年02月09日08:00（东八区时间）后在 Launchpad网站 将BNB、FDUSD投入到PIXEL挖矿池中获得PIXEL奖励，PIXEL共计可挖矿10天。
-Pixels（PIXEL），一款基于 Ronin 网络的社交网络游戏。 币安将于2024年02月19日18:00（东八区时间）上市 Pixels（PIXEL）, 开通PIXEL交易对
+币安新币挖矿现已上线第47期项目 - Portal（PORTAL），一个跨链游戏平台，致力于让更多玩家加入Web3.0的世界。
+
+用户可以在2024年02月22日08:00（东八区时间）后在 Launchpad网站 将BNB、FDUSD投入到PORTAL挖矿池中获得PORTAL奖励，PORTAL共计可挖矿7天。
 
 参与教程如下
 币安首页点击launchpool
@@ -14,10 +14,7 @@ Pixels（PIXEL），一款基于 Ronin 网络的社交网络游戏。 币安将�
 在Launchpool首页中, 可以看见该项目的详细信息
 本期项目可以使用fdusd或者bnb参与挖矿
 
-
-
-![pixel首页](media/pixel%E9%A6%96%E9%A1%B5.jpeg)
-
+![Portal](media/Portal.jpeg)
 
 1. fdusd和usdt一样,是一种美元稳定币, 但是体量没有usdt那么大, 币安为了推广fdusd, 推出fdusd挖矿活动, 将会获得20%比例的代币
 
@@ -46,14 +43,6 @@ Pixels（PIXEL），一款基于 Ronin 网络的社交网络游戏。 币安将�
 
 ![交易fdusd](media/%E4%BA%A4%E6%98%93fdusd.jpeg)
 
-买入后, 重新回到LaunchPool界面, 点击质押
+买入后, 重新回到LaunchPool界面, 选择对应的币种, 点击质押
 
-![质押fdusd](media/%E8%B4%A8%E6%8A%BCfdusd.jpeg)
-
-点击全部, 点击存入
-
-![点击全部,点击存入](media/%E7%82%B9%E5%87%BB%E5%85%A8%E9%83%A8,%E7%82%B9%E5%87%BB%E5%AD%98%E5%85%A5.jpeg)
-
-之后在理财界面中就可以看见目前正在参加活动
-
-![理财pixel](media/%E7%90%86%E8%B4%A2pixel.jpeg)
+![Portal](media/Portal.jpeg)
